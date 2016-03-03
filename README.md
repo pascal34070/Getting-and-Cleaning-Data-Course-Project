@@ -8,6 +8,7 @@ the UCI Machine Learning repository.
 ###The repository contains the following files :
 - This README.md file
 - A codebook called "CodeBook.md" which describe variables of the final tidy dataset
+- The tidy dataset called "tidyData.txt"  
 - A R file called "run_analysis.R" which contains the script of the project. This script achieves 
 the following tasks :
   1. Merging the training and the test sets to create one data set.
@@ -16,6 +17,6 @@ the following tasks :
   4. Appropriately labeling the data set with descriptive variable names.
   5. Creating a second, independent tidy data set with the average of each variable for each activity and each subject.
   6. Building a codebook describing all variables of the tidy dataset
--The output "tidyData.txt"  file
+
   
 
